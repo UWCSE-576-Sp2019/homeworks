@@ -1,2 +1,1 @@
-# homeworks
-Course website: https://courses.cs.washington.edu/courses/cse576/19sp/
+# Welcome to CSE 576 (Computer Vision) Spring 2019!
